@@ -1,4 +1,4 @@
-package com.fredericoferreiracosta.java.rest.services;
+package com.ffc.examples.java.rest.services;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
