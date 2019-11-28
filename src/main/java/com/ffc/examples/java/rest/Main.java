@@ -10,7 +10,7 @@ import org.glassfish.jersey.servlet.ServletContainer;
 /**
  * Web service runner.
  *
- * You might run it via maven:  mvn exec:java -Dexec.mainClass="Main"
+ * You might run it via maven:  mvn exec:java -Dexec.mainClass=com.ffc.examples.java.rest.Main
  */
 public class Main {
 
